@@ -1,5 +1,5 @@
-# Bankinst-app
-This is a simple bankist app I just made after learning some JavaScript from Jonas Schmedtmann's course.
+# Demo Bank System-app
+This is a simple Demo Bank System-app.I just made after learning some JavaScript from Jonas Schmedtmann's course.
 
 - [👉Live Preview👈](https://demo-bank-system.netlify.app/)
 

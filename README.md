@@ -23,7 +23,8 @@ PIN: 3333<br>
 
 #### Screenshot
 
-<p><img align="center" src="Screenshot-1-Bankist.jpg"/></p>
+![image](https://github.com/yash-199/Demo-Bank-System/assets/68182949/ce5a2f53-7ff8-4158-96fd-d32c754b2b7b)
+
 
 #### Flowchart
 
